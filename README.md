@@ -308,7 +308,7 @@ src/main/java/com/community/tradeservice/
     ├── UserService.java
     ├── ItemService.java
     └── OrderService.java
-	```
+```
 
 # Happy Trading! 🎉
 
